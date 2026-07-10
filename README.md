@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="./assets/banner-cyberpunk.png" width="100%" alt="Nathan Pires Dantas Cyberpunk GitHub Banner" />
+<img src="assets/banner-cyberpunk.png" width="100%" alt="Nathan Pires Dantas Cyberpunk GitHub Banner" />
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Cybersecurity+%E2%80%A2+Automation+%E2%80%A2+Data+%E2%80%A2+AI;Hack+the+problem.+Build+the+solution.;Python+%7C+SQL+%7C+Power+BI+%7C+React;Turning+complex+systems+into+intelligent+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Cybersecurity+%E2%80%A2+Automation+%E2%80%A2+Data+%E2%80%A2+AI;Hack+the+problem.+Build+the+solution.;Python+%7C+SQL+%7C+Power+BI+%7C+React;Building+secure%2C+automated+and+intelligent+solutions" alt="Typing SVG" />
 
 <br />
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/FOCUS-100%25-00d9ff?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/BUILD-AUTOMATE%20%7C%20DEFEND-f7c948?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&logo=statuspage&logoColor=00ff88&labelColor=050505&color=050505" />
+<img src="https://img.shields.io/badge/FOCUS-100%25-00d9ff?style=for-the-badge&logo=target&logoColor=00d9ff&labelColor=050505&color=050505" />
+<img src="https://img.shields.io/badge/MODE-BUILD%20%7C%20AUTOMATE%20%7C%20DEFEND-f7c948?style=for-the-badge&logo=githubactions&logoColor=f7c948&labelColor=050505&color=050505" />
 
 </div>
 
----
+<img src="assets/matrix-divider.svg" width="100%" alt="Matrix Divider" />
 
-<img src="./assets/matrix-divider.svg" width="100%" alt="Matrix Divider" />
+<br />
 
-## `>_ ABOUT ME`
+## <img src="https://img.shields.io/badge/%3E__ABOUT_ME-050505?style=for-the-badge&logo=gnometerminal&logoColor=00ff88&labelColor=050505&color=050505" alt="About Me" />
 
 <table>
 <tr>
@@ -38,41 +38,72 @@ nathan@np-dev:~$ whoami
 > Always Learning
 ```
 
-- 🛡️ Mentalidade voltada para segurança, análise e proteção de sistemas.
-- ⚙️ Automação para eliminar tarefas repetitivas e aumentar eficiência.
-- 📊 Dados, indicadores e dashboards para apoiar decisões reais.
-- 🚀 Desenvolvimento web com foco em projetos úteis, modernos e escaláveis.
+<img src="https://img.shields.io/badge/Security-050505?style=flat-square&logo=hackthebox&logoColor=00ff88&labelColor=050505" /> Mentalidade voltada para segurança, análise e proteção de sistemas.
+
+<img src="https://img.shields.io/badge/Automation-050505?style=flat-square&logo=githubactions&logoColor=f7c948&labelColor=050505" /> Automação para eliminar tarefas repetitivas e aumentar eficiência.
+
+<img src="https://img.shields.io/badge/Data-050505?style=flat-square&logo=databricks&logoColor=00d9ff&labelColor=050505" /> Dados, indicadores e dashboards para apoiar decisões reais.
+
+<img src="https://img.shields.io/badge/Web-050505?style=flat-square&logo=react&logoColor=61dafb&labelColor=050505" /> Desenvolvimento web com foco em projetos úteis, modernos e escaláveis.
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/terminal-whoami.svg" width="100%" alt="Terminal Whoami" />
+<img src="assets/terminal-whoami.svg" width="100%" alt="Terminal Whoami" />
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/matrix-divider.svg" width="100%" alt="Matrix Divider" />
 
-## `>_ CYBER ACHIEVEMENTS`
+<br />
+
+## <img src="https://img.shields.io/badge/%3E__CYBER_ACHIEVEMENTS-050505?style=for-the-badge&logo=tryhackme&logoColor=00ff88&labelColor=050505&color=050505" alt="Cyber Achievements" />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CODE%20ARCHITECT-111827?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505" />
-<img src="https://img.shields.io/badge/AUTOMATION%20BUILDER-111827?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=050505" />
-<img src="https://img.shields.io/badge/DATA%20EXPLORER-111827?style=for-the-badge&logo=postgresql&logoColor=00d9ff&labelColor=050505" />
-<img src="https://img.shields.io/badge/SECURITY%20MINDSET-111827?style=for-the-badge&logo=linux&logoColor=f7c948&labelColor=050505" />
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVER-111827?style=for-the-badge&logo=hackthebox&logoColor=00ff88&labelColor=050505" />
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/CODE-ARCHITECT-00ff88?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" />
+<br />
+<sub>Estrutura código com visão de projeto, clareza e evolução.</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/AUTOMATION-BUILDER-f7c948?style=for-the-badge&logo=python&logoColor=black&labelColor=050505" />
+<br />
+<sub>Cria fluxos para reduzir trabalho repetitivo e ganhar escala.</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DATA-EXPLORER-00d9ff?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=050505" />
+<br />
+<sub>Transforma dados em leitura, indicador e tomada de decisão.</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/SECURITY-MINDSET-00ff88?style=for-the-badge&logo=linux&logoColor=black&labelColor=050505" />
+<br />
+<sub>Pensa em riscos, proteção, evidências e confiabilidade.</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/PROBLEM-SOLVER-f7c948?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=050505" />
+<br />
+<sub>Quebra problemas grandes em entregas práticas e executáveis.</sub>
+</td>
+</tr>
+</table>
 
-<br /><br />
+<br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=thannth75&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
+<img src="https://img.shields.io/badge/LEARNING_ALWAYS-050505?style=for-the-badge&logo=bookstack&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/BUILDING_REAL_SOLUTIONS-050505?style=for-the-badge&logo=rocketdotchat&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/THINK_LIKE_A_HACKER-050505?style=for-the-badge&logo=hackthebox&logoColor=f7c948" />
 
 </div>
 
----
+<br />
 
-## `>_ LANGUAGES & TOOLS`
+## <img src="https://img.shields.io/badge/%3E__LANGUAGES_%26_TOOLS-050505?style=for-the-badge&logo=stackshare&logoColor=00ff88&labelColor=050505&color=050505" alt="Languages and Tools" />
 
 <div align="center">
 
@@ -88,9 +119,9 @@ nathan@np-dev:~$ whoami
 
 </div>
 
----
+<br />
 
-## `>_ GITHUB STATS`
+## <img src="https://img.shields.io/badge/%3E__GITHUB_STATS-050505?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505&color=050505" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -103,44 +134,59 @@ nathan@np-dev:~$ whoami
 
 </div>
 
----
+<br />
 
-## `>_ FEATURED PROJECTS`
+## <img src="https://img.shields.io/badge/%3E__FEATURED_PROJECTS-050505?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505&color=050505" alt="Featured Projects" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Jarvins Omega
+<img src="https://img.shields.io/badge/PROJECT-JARVINS_OMEGA-050505?style=for-the-badge&logo=openai&logoColor=00ff88" />
+
 Sistema pessoal de IA multimodal com foco em automação, voz, visão, agentes e produtividade.
 
-`AI` `Automation` `Python` `React` `FastAPI`
+<img src="https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/Automation-111827?style=flat-square&logo=githubactions&logoColor=f7c948" />
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61dafb" />
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data & Dashboards
+<img src="https://img.shields.io/badge/PROJECT-DATA_%26_DASHBOARDS-050505?style=for-the-badge&logo=powerbi&logoColor=f7c948" />
+
 Projetos voltados para análise de dados, indicadores, Power BI, SQL e visualização para tomada de decisão.
 
-`SQL` `Power BI` `Python` `Analytics`
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=f7c948" />
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/Analytics-111827?style=flat-square&logo=databricks&logoColor=00ff88" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Automação Python
+<img src="https://img.shields.io/badge/PROJECT-AUTOMACAO_PYTHON-050505?style=for-the-badge&logo=python&logoColor=00ff88" />
+
 Automações para tratamento de informações, organização de evidências, e-mails, relatórios e processos repetitivos.
 
-`Python` `Automation` `Scripts` `Productivity`
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/Scripts-111827?style=flat-square&logo=gnometerminal&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/Productivity-111827?style=flat-square&logo=todoist&logoColor=f7c948" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Web
+<img src="https://img.shields.io/badge/PROJECT-PORTFOLIO_WEB-050505?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+
 Portfólio profissional para apresentar projetos, habilidades, experiência e evolução como desenvolvedor.
 
-`React` `Tailwind` `Vercel` `UI`
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61dafb" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/UI-111827?style=flat-square&logo=figma&logoColor=f7c948" />
 
 </td>
 </tr>
@@ -149,14 +195,14 @@ Portfólio profissional para apresentar projetos, habilidades, experiência e ev
 <div align="center">
 
 <a href="https://github.com/thannth75?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00ff88?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00ff88?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </div>
 
----
+<br />
 
-## `>_ ACTIVITY GRAPH`
+## <img src="https://img.shields.io/badge/%3E__ACTIVITY_GRAPH-050505?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505&color=050505" alt="Activity Graph" />
 
 <div align="center">
 
@@ -164,9 +210,9 @@ Portfólio profissional para apresentar projetos, habilidades, experiência e ev
 
 </div>
 
----
+<br />
 
-## `>_ CONTRIBUTION SNAKE`
+## <img src="https://img.shields.io/badge/%3E__CONTRIBUTION_SNAKE-050505?style=for-the-badge&logo=githubactions&logoColor=00ff88&labelColor=050505&color=050505" alt="Contribution Snake" />
 
 <div align="center">
 
@@ -178,52 +224,47 @@ Portfólio profissional para apresentar projetos, habilidades, experiência e ev
 
 </div>
 
----
+<br />
 
-## `>_ SYSTEM CORE`
+## <img src="https://img.shields.io/badge/%3E__SYSTEM_CORE-050505?style=for-the-badge&logo=gnometerminal&logoColor=00ff88&labelColor=050505&color=050505" alt="System Core" />
 
 <table>
 <tr>
 <td width="33%" align="center" valign="middle">
-
-<img src="./assets/system-status.svg" width="100%" alt="System Status" />
-
+<img src="assets/system-status.svg" width="100%" alt="System Status" />
 </td>
 <td width="34%" align="center" valign="middle">
-
-<img src="./assets/np-logo.png" width="150" alt="NP Logo" />
-
-<br />
-
-<img src="https://img.shields.io/badge/BUILD-050505?style=for-the-badge&logo=github&logoColor=00ff88" />
-<img src="https://img.shields.io/badge/AUTOMATE-050505?style=for-the-badge&logo=githubactions&logoColor=f7c948" />
-<img src="https://img.shields.io/badge/DEFEND-050505?style=for-the-badge&logo=hackthebox&logoColor=00ff88" />
-
+<img src="assets/np-logo.png" width="115" alt="NP Logo" />
 <br /><br />
-
-<sub><strong>THINK LIKE A HACKER. BUILD LIKE AN ENGINEER.</strong></sub>
-
+<img src="https://img.shields.io/badge/BUILD-050505?style=for-the-badge&logo=github&logoColor=00ff88" />
+<br />
+<img src="https://img.shields.io/badge/AUTOMATE-050505?style=for-the-badge&logo=githubactions&logoColor=f7c948" />
+<br />
+<img src="https://img.shields.io/badge/DEFEND-050505?style=for-the-badge&logo=hackthebox&logoColor=00ff88" />
+<br /><br />
+<sub><strong>THINK LIKE A HACKER.<br />BUILD LIKE AN ENGINEER.</strong></sub>
 </td>
 <td width="33%" align="center" valign="middle">
-
-<img src="./assets/currently.svg" width="100%" alt="Currently" />
-
+<img src="assets/currently.svg" width="100%" alt="Currently" />
 </td>
 </tr>
 </table>
 
----
+<br />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:f7c948&height=120&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=26&animation=fadeIn&fontAlignY=70" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:f7c948&height=110&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=25&animation=fadeIn&fontAlignY=72" width="100%" alt="Footer" />
 
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=thannth75&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-050505?style=for-the-badge&logo=bookstack&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/ALWAYS-BUILDING-050505?style=for-the-badge&logo=visualstudiocode&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/ALWAYS-SHIPPING-050505?style=for-the-badge&logo=vercel&logoColor=f7c948" />
 
 <br /><br />
 
-`nathan@np-dev:~$` **Always learning. Always building. Always shipping.** `█`
+<code>nathan@np-dev:~$ build --secure --automate --defend</code>
 
 </div>
