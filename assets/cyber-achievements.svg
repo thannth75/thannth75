@@ -1,0 +1,44 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0" x2="1200" y1="0" y2="330">
+      <stop offset="0" stop-color="#00ff88"/>
+      <stop offset="0.55" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#f7c948"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" rx="18" fill="#050505"/>
+  <rect x="1.5" y="1.5" width="1197" height="327" rx="18" fill="none" stroke="url(#border)" stroke-width="2" opacity=".55"/>
+  <g opacity=".18" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#00ff88">
+    <text x="30" y="48">01001110 01010000 00101111 01100011 01111001 01100010 01100101 01110010</text>
+    <text x="760" y="92">ACCESS_GRANTED // BUILD_SECURE // AUTOMATE</text>
+    <text x="60" y="300">PYTHON SQL POWERBI REACT FASTAPI LINUX DATA AI</text>
+  </g>
+  <text x="600" y="62" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="28" font-weight="800" letter-spacing="6" fill="#ffffff">CYBER ACHIEVEMENTS</text>
+  <line x1="170" y1="86" x2="1030" y2="86" stroke="url(#border)" opacity=".65"/>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-weight="800" letter-spacing="3">
+    <rect x="70" y="125" width="310" height="68" rx="10" fill="#0d1117" stroke="#00ff88" opacity=".95"/>
+    <text x="225" y="168" text-anchor="middle" font-size="20" fill="#ffffff">CODE ARCHITECT</text>
+    <circle cx="103" cy="158" r="12" fill="#00ff88" filter="url(#glow)"/>
+
+    <rect x="445" y="125" width="310" height="68" rx="10" fill="#0d1117" stroke="#00d9ff" opacity=".95"/>
+    <text x="600" y="168" text-anchor="middle" font-size="20" fill="#ffffff">AUTOMATION BUILDER</text>
+    <circle cx="478" cy="158" r="12" fill="#00d9ff" filter="url(#glow)"/>
+
+    <rect x="820" y="125" width="310" height="68" rx="10" fill="#0d1117" stroke="#f7c948" opacity=".95"/>
+    <text x="975" y="168" text-anchor="middle" font-size="20" fill="#ffffff">DATA EXPLORER</text>
+    <circle cx="853" cy="158" r="12" fill="#f7c948" filter="url(#glow)"/>
+
+    <rect x="205" y="225" width="350" height="68" rx="10" fill="#0d1117" stroke="#00ff88" opacity=".95"/>
+    <text x="380" y="268" text-anchor="middle" font-size="20" fill="#ffffff">SECURITY MINDSET</text>
+    <circle cx="238" cy="258" r="12" fill="#00ff88" filter="url(#glow)"/>
+
+    <rect x="645" y="225" width="350" height="68" rx="10" fill="#0d1117" stroke="#00d9ff" opacity=".95"/>
+    <text x="820" y="268" text-anchor="middle" font-size="20" fill="#ffffff">SYSTEM BUILDER</text>
+    <circle cx="678" cy="258" r="12" fill="#00d9ff" filter="url(#glow)"/>
+  </g>
+</svg>

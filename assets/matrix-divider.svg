@@ -1,0 +1,24 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ff41" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .code{font: 16px monospace; fill:#00ff41; opacity:.55}
+      .line{stroke:url(#g); stroke-width:2; filter:url(#glow)}
+      @keyframes fall{from{transform:translateY(-80px)}to{transform:translateY(80px)}}
+      @keyframes pulse{0%,100%{opacity:.25}50%{opacity:.9}}
+      .c1{animation:fall 7s linear infinite}.c2{animation:fall 9s linear infinite}.c3{animation:fall 11s linear infinite}
+      .p{animation:pulse 2.4s ease-in-out infinite}
+    </style>
+  </defs>
+  <rect width="1200" height="120" fill="#05080d"/>
+  <g class="c1"><text class="code" x="35" y="20">01001110 01010000 00111110 01000011 01011001 01000010 01000101 01010010</text><text class="code" x="220" y="70">101010 001101 111000 010101 010010 110011 001100</text></g>
+  <g class="c2"><text class="code" x="520" y="35">nathan@np-dev:~$ build --secure --automate</text><text class="code" x="720" y="95">ACCESS_GRANTED // DATA_PIPELINE // AI_AGENT</text></g>
+  <g class="c3"><text class="code" x="940" y="18">11010101 00110011 10010110</text><text class="code" x="80" y="105">PYTHON SQL POWERBI REACT FASTAPI LINUX</text></g>
+  <path class="line p" d="M80 60 H1120"/>
+  <circle class="p" cx="600" cy="60" r="6" fill="#f7c948" filter="url(#glow)"/>
+</svg>
