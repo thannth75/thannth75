@@ -1,0 +1,10 @@
+<svg width="520" height="260" viewBox="0 0 520 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.bg{fill:#060b10;stroke:#00ff41;stroke-opacity:.55}.t{font:16px Consolas,monospace;fill:#c9d1d9}.g{fill:#00ff41}.b{fill:#00e5ff}.cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}</style></defs>
+  <rect class="bg" x="8" y="8" width="504" height="244" rx="16"/>
+  <text class="t g" x="28" y="44">&gt;_ CURRENTLY</text>
+  <text class="t" x="48" y="86">☑ Building secure systems</text>
+  <text class="t" x="48" y="120">☑ Automating boring tasks</text>
+  <text class="t" x="48" y="154">☑ Exploring AI &amp; data</text>
+  <text class="t" x="48" y="188">☑ Creating real products</text>
+  <text class="t" x="28" y="226"><tspan class="g">nathan@np-dev</tspan><tspan>:</tspan><tspan class="b">~</tspan><tspan>$</tspan> <tspan class="cursor g">█</tspan></text>
+</svg>
