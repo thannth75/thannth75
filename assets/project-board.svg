@@ -1,0 +1,40 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1200" y1="0" y2="440">
+      <stop offset="0" stop-color="#00ff88"/><stop offset=".55" stop-color="#00d9ff"/><stop offset="1" stop-color="#f7c948"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" rx="18" fill="#050505"/>
+  <rect x="1.5" y="1.5" width="1197" height="437" rx="18" fill="none" stroke="url(#g)" opacity=".55" stroke-width="2"/>
+  <text x="600" y="52" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="26" font-weight="800" letter-spacing="6" fill="#fff">FEATURED PROJECTS</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <g transform="translate(55 92)">
+      <rect width="520" height="135" rx="12" fill="#0d1117" stroke="#263647"/>
+      <text x="26" y="38" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="800" fill="#00ff88">JARVINS OMEGA</text>
+      <text x="26" y="72" font-size="18" fill="#d1d5db">IA pessoal multimodal com voz, visão, agentes,</text>
+      <text x="26" y="98" font-size="18" fill="#d1d5db">automação e produtividade.</text>
+      <text x="26" y="124" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#f7c948">AI • PYTHON • REACT • AUTOMATION</text>
+    </g>
+    <g transform="translate(625 92)">
+      <rect width="520" height="135" rx="12" fill="#0d1117" stroke="#263647"/>
+      <text x="26" y="38" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="800" fill="#00d9ff">DATA & DASHBOARDS</text>
+      <text x="26" y="72" font-size="18" fill="#d1d5db">Análise de dados, indicadores, Power BI, SQL</text>
+      <text x="26" y="98" font-size="18" fill="#d1d5db">e visualização para decisão.</text>
+      <text x="26" y="124" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#f7c948">SQL • POWER BI • PYTHON • ANALYTICS</text>
+    </g>
+    <g transform="translate(55 255)">
+      <rect width="520" height="135" rx="12" fill="#0d1117" stroke="#263647"/>
+      <text x="26" y="38" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="800" fill="#00d9ff">AUTOMAÇÕES PYTHON</text>
+      <text x="26" y="72" font-size="18" fill="#d1d5db">Scripts e fluxos para eliminar tarefas repetitivas,</text>
+      <text x="26" y="98" font-size="18" fill="#d1d5db">tratar dados e organizar processos.</text>
+      <text x="26" y="124" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#f7c948">PYTHON • SCRIPTS • PROCESS • ETL</text>
+    </g>
+    <g transform="translate(625 255)">
+      <rect width="520" height="135" rx="12" fill="#0d1117" stroke="#263647"/>
+      <text x="26" y="38" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="800" fill="#00ff88">PORTFÓLIO WEB</text>
+      <text x="26" y="72" font-size="18" fill="#d1d5db">Interface profissional para apresentar trajetória,</text>
+      <text x="26" y="98" font-size="18" fill="#d1d5db">habilidades, projetos e evolução.</text>
+      <text x="26" y="124" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#f7c948">REACT • TAILWIND • VERCEL • UI</text>
+    </g>
+  </g>
+</svg>
